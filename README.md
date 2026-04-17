@@ -33,6 +33,6 @@ A deep dive into coffee sales data to answer business-critical questions.
 
 ### 📫 Let's Connect!
 * **GitHub:** [ayansh3006](https://github.com/ayansh3006)
-* *Add your LinkedIn or Portfolio links here!*
+* *https://www.linkedin.com/in/ayansh2201/*
 
 *"Data is the new oil, but it's only useful if it's refined."*
