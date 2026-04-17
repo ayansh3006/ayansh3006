@@ -1,6 +1,6 @@
 # Hi there, I'm Ayansh Singh! 👋
 
-I am a **Data Science & AI student** at [IIIT Ranchi](https://iiitranchi.ac.in/) (Class of 2027), dedicated to turning complex data into actionable business intelligence.Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. I specialize in building interactive dashboards and leveraging SQL for deep-dive data analysis.
+I am a **Data Science & AI student** at [IIIT Ranchi](https://iiitranchi.ac.in/) (Class of 2027), dedicated to turning complex data into actionable business intelligence. Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. I specialize in building interactive dashboards and leveraging SQL for deep-dive data analysis.
 
 ---
 
