@@ -27,7 +27,7 @@ A deep dive into coffee sales data to answer business-critical questions.
 
 ### 📈 GitHub Stats
 ![Ayansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayansh3006&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayansh3006&layout=compact&theme=dark)
+
 
 ---
 
