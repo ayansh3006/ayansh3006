@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi there, I'm Ayansh Singh! 👋
 
-<!--
-**ayansh3006/ayansh3006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. I enjoy building interactive dashboards and solving complex problems using SQL.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ My Toolbox
+* **Data Visualization:** Power BI, Excel
+* **Databases:** MySQL, PostgreSQL
+* **Core Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Case Studies
+
+---
+
+### 📂 Featured Projects
+
+#### 📊 [Blinkit Sales Dashboard](https://github.com/ayansh3006/Blinkit-Dashboard)
+An interactive Power BI dashboard designed to track and analyze sales performance. 
+* **Key Insight:** Visualized KPIs to identify trends in grocery delivery metrics.
+* **Tools:** Power BI, DAX.
+
+#### ☕ [SQL Coffee Sales Case Study](https://github.com/ayansh3006/SQL-Case-Study)
+A deep dive into coffee sales data to answer business-critical questions.
+* **Key Insight:** Used advanced SQL queries to analyze customer behavior and product performance.
+* **Tools:** SQL (Joins, Aggregations, CTEs).
+
+---
+
+### 📈 GitHub Stats
+![Ayansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayansh3006&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayansh3006&layout=compact&theme=dark)
+
+---
+
+### 📫 Let's Connect!
+* **GitHub:** [ayansh3006](https://github.com/ayansh3006)
+* *Add your LinkedIn or Portfolio links here!*
+
+*"Data is the new oil, but it's only useful if it's refined."*
