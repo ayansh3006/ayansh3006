@@ -1,6 +1,6 @@
 # Hi there, I'm Ayansh Singh! 👋
 
-I am an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. I enjoy building interactive dashboards and solving complex problems using SQL.
+I am a **Data Science & AI student** at [IIIT Ranchi](https://iiitranchi.ac.in/) (Class of 2027), dedicated to turning complex data into actionable business intelligence.Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights. I specialize in building interactive dashboards and leveraging SQL for deep-dive data analysis.
 
 ---
 
@@ -8,6 +8,15 @@ I am an aspiring **Data Analyst** passionate about transforming raw data into me
 * **Data Visualization:** Power BI, Excel
 * **Databases:** MySQL, PostgreSQL
 * **Core Skills:** Data Cleaning, Exploratory Data Analysis (EDA), Case Studies
+
+---
+
+### 🤝 Collaborative Projects
+
+#### 🚀 [DEVA](https://github.com/mohitraj0901/DEVA)
+*A collaborative development project focused on enhancing [Project Goal].*
+* **My Contribution:** Contributing to the data logic and documentation to ensure scalability.
+* **Collaborators:** Working with [@mohitraj0901](https://github.com/mohitraj0901).
 
 ---
 
@@ -25,14 +34,16 @@ A deep dive into coffee sales data to answer business-critical questions.
 
 ---
 
-### 📈 GitHub Stats
-![Ayansh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayansh3006&show_icons=true&theme=dark)
-
+### 📈 GitHub Stats & Streak
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=ayansh3006&show_icons=true&theme=radical" alt="Ayansh's GitHub stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayansh3006&theme=radical" alt="Ayansh's GitHub streak" />
+</p>
 
 ---
 
 ### 📫 Let's Connect!
+* **LinkedIn:** [ayansh2201](https://www.linkedin.com/in/ayansh2201/)
 * **GitHub:** [ayansh3006](https://github.com/ayansh3006)
-* **LinkedIn:** https://www.linkedin.com/in/ayansh2201/*
 
 *"Data is the new oil, but it's only useful if it's refined."*
